@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Fattern Regular';
+  src: local('Fattern Regular'), url('../Fonts/Fattern.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Fattern Regular';
+  color: #0000007c;
+  font-size: 4rem;
+}
