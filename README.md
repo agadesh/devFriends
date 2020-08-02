@@ -1,6 +1,6 @@
 # Dev Friends
 
-# [Website-link](https://agadesh.github.io/devFriends){:target="_blank"}
+# Website-link https://agadesh.github.io/devFriends
 
 # To run the project:
 
